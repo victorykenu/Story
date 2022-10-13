@@ -1,0 +1,5 @@
+Hello, my name is Victory Kenu.
+
+Currently learning how to code using Js and NodeJs
+
+Just trying to test Git functions and commands
